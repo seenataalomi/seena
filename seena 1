@@ -1,0 +1,4 @@
+$ git init
+Initialized empty Git repository in /home/ubuntu/workspace/hello_app/.git/
+$ git add -A
+$ git status
